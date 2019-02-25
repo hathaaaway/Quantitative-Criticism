@@ -20,24 +20,24 @@ In the Down Dog Yoga system, it includes four actors which are staff, volunteers
 
 ### Internat ER Diagram
 
-*Classes
-  Each class has its unique ID for connecting to class schedule
-*Students
-  Each student has a unique student ID and can take
+* Classes
+	Each class has its unique ID for connecting to class schedule
+* Students
+	Each student has a unique student ID and can take
 multiple classes
-*Memberships 
+* Memberships 
 	In total Down Dog Yoga provides 3 different kind of
 membership packages with different costs. 
-*Class schedule 
+* Class schedule 
 	Each class can have multiple schedules, and
 different staff or volunteer can work for the same
 class but for different time. 
-*Staff
+* Staff
 	All staff has a unique staff ID to connect with class
 Schedule
-*Volunteers
+* Volunteers
 	Volunteers’ information includes hours they have
 volunteered 
-*Studios
-  Each studio has its unique ID to connect class schedule 
+* Studios
+	Each studio has its unique ID to connect class schedule 
 
