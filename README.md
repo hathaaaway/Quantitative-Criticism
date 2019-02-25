@@ -21,23 +21,24 @@ In the Down Dog Yoga system, it includes four actors which are staff, volunteers
 ### Internat ER Diagram
 
 * Classes
-	Each class has its unique ID for connecting to class schedule
+	* Each class has its unique ID for connecting to class schedule
 * Students
-	Each student has a unique student ID and can take
+	* Each student has a unique student ID and can take
 multiple classes
 * Memberships 
-	In total Down Dog Yoga provides 3 different kind of
+	* In total Down Dog Yoga provides 3 different kind of
 membership packages with different costs. 
 * Class schedule 
-	Each class can have multiple schedules, and
+	* Each class can have multiple schedules, and
 different staff or volunteer can work for the same
 class but for different time. 
 * Staff
-	All staff has a unique staff ID to connect with class
+	* All staff has a unique staff ID to connect with class
 Schedule
 * Volunteers
-	Volunteers’ information includes hours they have
+	* Volunteers’ information includes hours they have
 volunteered 
 * Studios
-	Each studio has its unique ID to connect class schedule 
+	* Each studio has its unique ID to connect class schedule 
 
+![ER Diagram](https://github.com/hathaaaway/Structured-Data-Modeling-Project/blob/master/ER.png)
